@@ -1,4 +1,3 @@
-from calendar import c
 from ingresos import modingresos
 from gastos import modgastos
 from consultas import modConsultas
